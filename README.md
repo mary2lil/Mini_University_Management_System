@@ -49,13 +49,8 @@ A simple Java-based console application to manage students, courses, and enrollm
 
 ## ▶️ How to Run
 
-1. Compile all `.java` files:
-
-   ```bash
-   javac *.java
-2.Run the main class:
-java Main
-
+1. Compile all `.java` files.
+2.Run the main class.
 3.Follow the console instructions.
 
 ---
